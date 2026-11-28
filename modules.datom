@@ -5,6 +5,7 @@
   { { Intent configuration Single.0 } «intent/configuration/0.md» }
   { { Intent coordination Single.0 } «intent/coordination/0.md» }
   { { Intent design-faculty Single.0 } «intent/design-faculty/0.md» }
+  { { Intent direction Single.0 } «intent/direction/0.md» }
   { { Intent fable Single.0 } «intent/fable/0.md» }
   { { Intent implementer-flow Single.0 } «intent/implementer-flow/0.md» }
   { { Intent living Single.0 } «intent/living/0.md» }
@@ -114,6 +115,6 @@
   { { Intent purified-psyche Single.0 } «intent/purified-psyche/0.md» }
   { { Vision ethos-syntax Single.0 } «vision/ethos-syntax/0.md» }
   { { Vision datom-syntax Single.0 } «vision/datom-syntax/0.md» }
-  { { Vision designer-conduct Single.0 } «vision/designer-conduct/0.md» }
+  { { Vision design-conduct Single.0 } «vision/design-conduct/0.md» }
   { { Vision organism Single.0 } «vision/organism/0.md» }
 ]
