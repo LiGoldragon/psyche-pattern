@@ -71,6 +71,7 @@
   { { Vision nexus Single.1 } «vision/nexus/1.md» }
   { { Vision nix-builds Single.0 } «vision/nix-builds/0.md» }
   { { Vision orchestrate Single.0 } «vision/orchestrate/0.md» }
+  { { Vision page-builder Single.0 } «vision/page-builder/0.md» }
   { { Vision persona Single.0 } «vision/persona/0.md» }
   { { Vision presentation Single.0 } «vision/presentation/0.md» }
   { { Vision proposal Single.0 } «vision/proposal/0.md» }
